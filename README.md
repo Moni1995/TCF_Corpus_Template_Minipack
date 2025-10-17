@@ -6,6 +6,8 @@
 
 This mini pack gives you a taste of structured C1-level content for TCF preparation. Think of it as your starting point for mastering French at an advanced level.
 
+👉 **[Get the free pack here](https://github.com/Moni1995/TCF_Corpus_Template_Minipack)**
+
 **Themes covered:**
 - 🌍 Environment (Pollution, Biodiversity)
 - 📱 Social Media (Cyberbullying, Privacy)
