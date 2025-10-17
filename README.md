@@ -1,78 +1,53 @@
 # 🎯 TCF Success Pack (Mini Edition)
 
-> Your structured path to C1-level mastery in TCF writing and speaking sections, powered by Obsidian.
+> A practical French learning resource for TCF writing and speaking preparation, designed for Obsidian users.
 
-## ⭐ Why This Pack?
+## What's in this pack?
 
-- **Ready-to-use C1 content**: Advanced vocabulary, collocations, and connectors for immediate use
-- **Proven structure**: OREO/PEEL templates for writing, 60-second scripts for speaking
-- **Active practice**: Copy-paste blocks, personalize examples, track progress
-- **Obsidian-optimized**: Wiki-links, backlinks, and quick navigation
+This mini pack gives you a taste of structured C1-level content for TCF preparation. Think of it as your starting point for mastering French at an advanced level.
 
-## 📦 Mini Pack Contents
+**Themes covered:**
+- 🌍 Environment (Pollution, Biodiversity)
+- 📱 Social Media (Cyberbullying, Privacy)
+- 💼 Work & Economy (Remote Work, Working Conditions)
+- 🎓 Education (Online Learning)
 
-### Core Themes (with sub-topics)
-- 🌍 **Environment** (Climate Change, Pollution)
-- 📱 **Social Media** (Cyberbullying, Privacy)
-- 💼 **Work & Economy** (Remote Work, Working Conditions)
-- 🎓 **Education** (Online Learning)
+**Language resources:**
+- C1 collocations and connectors
+- Ready-to-use vocabulary blocks
+- Speaking scripts (60 seconds)
+- Writing templates (OREO/PEEL structure)
 
-### Advanced Language Banks
-- 🔤 **C1 Collocations** (`Banques_Transversales/Collocations_Générales.md`)
-- 🔗 **C1/C2 Connectors** (`Banques_Transversales/Connecteurs_Avancés.md`)
+## How to use this pack
 
-### Practice Tools
-- 📝 Writing exercises
-- 🎤 Speaking drills
-- ✅ Evaluation grids
-- 📊 Progress tracking
-- 📅 Study planners
+1. **Get started**
+   - Open this folder in Obsidian
+   - Start with `TCF_Thèmes_Index.md` to navigate
 
-## 🚀 Quick Start Guide
+2. **Practice daily**
+   - Pick a theme and sub-topic
+   - Copy useful vocabulary and phrases
+   - Practice with the provided exercises
 
-1. **Open in Obsidian**
-   - Open as vault or sub-folder
-   - Enable wiki-links for best experience
+3. **Track progress**
+   - Use the evaluation grids
+   - Follow the study planners
+   - Monitor your improvement
 
-2. **Navigate Content**
-   - Start with `TCF_Thèmes_Index.md`
-   - Choose a theme → sub-topic
-   - Copy useful blocks: vocabulary, phrases, examples
+## Want more content?
 
-3. **Practice Daily (30-45 min)**
-   - Day A: Vocabulary + speaking script
-   - Day B: Short essay (120-150 words)
-   - Weekly: Self-evaluation
+This mini pack is just the beginning. The full TCF Success Pack includes:
 
-## 💎 Upgrade to Full Pack!
+- **30 detailed themes** (vs 4 here)
+- **60 model essays** with corrections
+- **40 speaking scripts** with pronunciation tips
+- **Advanced scoring grids** for self-assessment
+- **PDF guides** for offline study
+- **Weekly study plans** tailored to your schedule
 
-> 🌟 **[Get the Complete TCF Success Pack]Coming Soon** 🌟
+👉 **[Get the complete pack here](https://gumroad.com/moni)**
 
-The full version includes everything you need for C1 mastery:
-
-- **6x more content**:
-  - 30 detailed themes (vs 4 in mini)
-  - 60 model essays (B2-C1)
-  - 40 speaking scripts
-  - 200+ C1 collocations
-  - 100+ advanced connectors
-
-- **Premium features**:
-  - PDF mini-guides
-  - Essay templates
-  - Advanced scoring grids
-  - Progress analytics
-  - Priority updates
-
-- **Bonus materials**:
-  - "TCF Writing Secrets" guide
-  - "60-Second Speaking Formula"
-  - Weekly study plans
-  - Expert tips & tricks
-
-👉 **[Upgrade now for complete TCF preparation!](Coming Soon)**
-
-## 📂 Quick Reference
+## File structure
 
 ```
 TCF_Thèmes_Index.md
@@ -102,4 +77,4 @@ TCF_Thèmes_Index.md
 
 ---
 
-*Note: This mini pack contains a subset of the full TCF Success Pack. For comprehensive C1 preparation, consider upgrading to the complete version.*
+*This mini pack is a sample of the full TCF Success Pack. For comprehensive C1 preparation, consider upgrading to the complete version.*
