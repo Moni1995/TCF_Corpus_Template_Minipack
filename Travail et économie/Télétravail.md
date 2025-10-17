@@ -106,4 +106,25 @@ Le télétravail est bénéfique mais nécessite une organisation adaptée pour 
 2. **Speaking**: Prepare a 60-second presentation on "How to organize remote work effectively"
 3. **Vocabulary**: Use 5 remote work-related words in a paragraph about modern work
 
+## Theme-specific upgrades
+
+**Argument kits:**
+- Flexibilité: gain de temps → moins de trajets → énergie pour les tâches clés
+- Organisation: autonomie → responsabilisation → résultats mesurables
+- Cohésion: distance → rituels d'équipe → appartenance maintenue
+- Santé: moins de stress → meilleur sommeil → concentration accrue
+
+**Synonym swaps:**
+- flexible → souple, adaptable
+- productif → efficace, performant
+- réunion → point, séance, échange
+- outils → solutions, plateformes, applications
+
+**Problem → remedy frames:**
+- Problème: isolement → Remède: points informels, binômage, mentorat
+- Problème: surcharge d'appels → Remède: agenda commun, plages focus
+- Problème: flou des attentes → Remède: objectifs clairs, feedback court
+
+> See transversal helpers for generic starters, connectors, Q&A, and quick fixes: [[TCF_Corpus_Template_Minipack/Banques_Transversales/Structures_Générales|Structures_Générales]].
+
 [[TCF_Corpus_Template_Minipack/Travail et économie/Travail et économie-index|← Back to index]]

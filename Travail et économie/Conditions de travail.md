@@ -109,4 +109,6 @@ Il est essentiel d'améliorer les conditions de travail pour garantir la perform
 2. **Speaking**: Prepare a 60-second presentation on "The importance of good working conditions"
 3. **Vocabulary**: Use 5 working conditions-related words in a paragraph about workplace improvement
 
+> See transversal helpers for generic starters, connectors, Q&A, and quick fixes: [[TCF_Corpus_Template_Minipack/Banques_Transversales/Structures_Générales|Structures_Générales]].
+
 [[TCF_Corpus_Template_Minipack/Travail et économie/Travail et économie-index|← Back to index]]

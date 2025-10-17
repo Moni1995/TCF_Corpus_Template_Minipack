@@ -34,6 +34,7 @@ created: 2025-10-17
 ## 📚 Banques transversales
 [[TCF_Corpus_Template_Minipack/Banques_Transversales/Collocations_Générales|🔗 Collocations générales]]
 [[TCF_Corpus_Template_Minipack/Banques_Transversales/Connecteurs_Avancés|🔗 Connecteurs avancés C1/C2]]
+[[TCF_Corpus_Template_Minipack/Banques_Transversales/Structures_Générales|🔗 Structures générales (thèses, paraphrases, connecteurs, Q&A)]]
 ## 🎯 Outils de pratique
 - [[TCF_Corpus_Template_Minipack/Outils_Pratique/Plan_Étude_Personnalisé|📚 Plan d'étude personnalisé]]
 - [[TCF_Corpus_Template_Minipack/Outils_Pratique/Plan_Jour_Par_Jour|📅 Plan jour par jour avec checklists]]

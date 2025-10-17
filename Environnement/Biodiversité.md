@@ -107,4 +107,25 @@ Il est urgent de protéger la biodiversité par des mesures de conservation et d
 2. **Speaking**: Prepare a 60-second presentation on "How to protect biodiversity"
 3. **Vocabulary**: Use 5 biodiversity-related words in a paragraph about nature conservation
 
+## Theme-specific upgrades
+
+**Argument kits:**
+- Écologique: habitats intacts → équilibre → services écosystémiques assurés
+- Alimentaire: pollinisateurs → sécurité alimentaire → variétés à préserver
+- Sanitaire: écosystèmes équilibrés → barrières naturelles → moins de zoonoses
+- Économique: nature protégée → tourisme, recherche → emplois durables
+
+**Synonym swaps:**
+- protéger → sauvegarder, préserver, défendre
+- détruire → dégrader, altérer, fragmenter
+- espèces → faune/flore, vivants, organismes
+- préserver → maintenir, conserver, pérenniser
+
+**Cause → solution frames:**
+- Cause: déforestation → Solution: moratoires, reboisement, labels responsables
+- Cause: fragmentation des habitats → Solution: corridors écologiques
+- Cause: braconnage → Solution: surveillance, sanctions, alternatives locales
+
+> See transversal helpers for generic starters, connectors, Q&A, and quick fixes: [[TCF_Corpus_Template_Minipack/Banques_Transversales/Structures_Générales|Structures_Générales]].
+
 [[TCF_Corpus_Template_Minipack/Environnement/Environement-index|← Back to index]]

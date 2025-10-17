@@ -103,4 +103,25 @@ Il est donc urgent de prendre des mesures pour réduire la pollution et protége
 2. **Speaking**: Prepare a 60-second presentation on "The main causes of pollution in my city"
 3. **Vocabulary**: Use 5 pollution-related words in a paragraph about environmental protection
 
+## Theme-specific upgrades
+
+**Argument kits (use one clear line per idea):**
+- Santé: pollution → irritation, asthme, fatigue → qualité de l'air à améliorer
+- Transports: trafic dense → particules + bruit → développer transports propres
+- Industrie: rejets non filtrés → air/eau/sol affectés → normes + contrôles
+- Habitudes: consommation jetable → déchets → tri, réemploi, réduction à la source
+
+**Synonym swaps (avoid repetition):**
+- pollution → nuisance, dégradation, contamination
+- réduire → limiter, atténuer, freiner
+- mesures → dispositions, politiques, dispositifs
+- améliorer → assainir, épurer, rendre plus sain
+
+**Cause → solution frames:**
+- Cause: embouteillages quotidiens → Solution: covoiturage, bus en site propre
+- Cause: chauffage au fioul → Solution: isolation, pompes à chaleur
+- Cause: plastique à usage unique → Solution: consigne, vrac, interdictions ciblées
+
+> See transversal helpers for generic starters, connectors, Q&A, and quick fixes: [[TCF_Corpus_Template_Minipack/Banques_Transversales/Structures_Générales|Structures_Générales]].
+
 [[TCF_Corpus_Template_Minipack/Environnement/Environement-index|← Back to index]]

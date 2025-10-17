@@ -109,4 +109,25 @@ Il est essentiel de renforcer la protection des données personnelles par l'édu
 2. **Speaking**: Prepare a 60-second presentation on "The importance of data privacy"
 3. **Vocabulary**: Use 5 privacy-related words in a paragraph about online security
 
+## Theme-specific upgrades
+
+**Argument kits:**
+- Contrôle: collecte massive → traçage → profilage → perte de confidentialité
+- Sécurité: mots de passe faibles → piratage → fuite d'informations
+- Confiance: opacité des plateformes → méfiance → baisse d'engagement
+- Solution: transparence → consentement clair → paramètres simples
+
+**Synonym swaps:**
+- données → informations, traces, éléments
+- protéger → sécuriser, préserver, défendre
+- consentement → accord, autorisation, validation
+- confidentialité → vie privée, discrétion, secret
+
+**Problem → remedy frames:**
+- Problème: collecte par défaut → Remède: opt-in, minimisation des données
+- Problème: failles de sécurité → Remède: 2FA, mots de passe uniques
+- Problème: tracking publicitaire → Remède: réglages, extensions anti‑tracking
+
+> See transversal helpers for generic starters, connectors, Q&A, and quick fixes: [[TCF_Corpus_Template_Minipack/Banques_Transversales/Structures_Générales|Structures_Générales]].
+
 [[TCF_Corpus_Template_Minipack/Réseaux sociaux/Réseaux sociaux-index|← Back to index]]

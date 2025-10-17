@@ -106,4 +106,25 @@ Il est urgent de lutter contre le cyberharcèlement par l'éducation, la préven
 2. **Speaking**: Prepare a 60-second presentation on "The dangers of cyberbullying"
 3. **Vocabulary**: Use 5 cyberbullying-related words in a paragraph about internet safety
 
+## Theme-specific upgrades
+
+**Argument kits:**
+- Psychologique: insultes répétées → anxiété → isolement → baisse de l'estime de soi
+- Social: exposition publique → rumeurs → réputation atteinte → exclusion
+- Éducatif: messages nocturnes → sommeil perturbé → baisse des résultats
+- Prévention: éducation numérique → règles claires → signalement rapide
+
+**Synonym swaps:**
+- harceler → persécuter, intimider, tourmenter
+- publier → diffuser, partager, propager
+- supprimer → retirer, effacer, masquer
+- protéger → sécuriser, préserver, défendre
+
+**Problem → remedy frames:**
+- Problème: anonymat → Remède: paramétrage, blocage, preuve (captures)
+- Problème: peur de parler → Remède: adulte référent, confidentialité
+- Problème: contenu viral → Remède: signalement + retrait rapide
+
+> See transversal helpers for generic starters, connectors, Q&A, and quick fixes: [[TCF_Corpus_Template_Minipack/Banques_Transversales/Structures_Générales|Structures_Générales]].
+
 [[TCF_Corpus_Template_Minipack/Réseaux sociaux/Réseaux sociaux-index|← Back to index]]
