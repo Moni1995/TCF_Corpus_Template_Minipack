@@ -1,91 +1,105 @@
-# 🎯 TCF Corpus Template Pack (Obsidian) - Version Améliorée
+# 🎯 TCF Success Pack (Mini Edition)
 
-**But** : fournir des gabarits **C1** complets pour la **production écrite** et la **production orale** du TCF.
+> Your structured path to C1-level mastery in TCF writing and speaking sections, powered by Obsidian.
 
-## 🚀 Nouvelles Fonctionnalités
+## ⭐ Why This Pack?
 
-### 📚 **Banques Transversales**
-- **Collocations générales** : 200+ expressions C1 organisées par thème
-- **Connecteurs avancés** : Connecteurs C1/C2 avec exemples d'usage
+- **Ready-to-use C1 content**: Advanced vocabulary, collocations, and connectors for immediate use
+- **Proven structure**: OREO/PEEL templates for writing, 60-second scripts for speaking
+- **Active practice**: Copy-paste blocks, personalize examples, track progress
+- **Obsidian-optimized**: Wiki-links, backlinks, and quick navigation
 
-### 🎯 **Contenu Spécialisé**
-- **Vocabulaire thématique** : Lexique spécifique pour chaque sous-thème
-- **Collocations spécialisées** : Expressions adaptées au contexte
-- **Exemples concrets** : Cas réels avec données chiffrées
-- **Contre-arguments** : Réfutations pour chaque thème
+## 📦 Mini Pack Contents
 
-### 🛠️ **Outils de Pratique**
-- **Exercices variés** : 20 sujets d'entraînement (écrit + oral)
-- **Grilles d'évaluation** : Critères détaillés pour auto-évaluation
-- **Suivi des progrès** : Planning et journal de progression
+### Core Themes (with sub-topics)
+- 🌍 **Environment** (Climate Change, Pollution)
+- 📱 **Social Media** (Cyberbullying, Privacy)
+- 💼 **Work & Economy** (Remote Work, Working Conditions)
+- 🎓 **Education** (Online Learning)
 
-## 📖 Comment utiliser
+### Advanced Language Banks
+- 🔤 **C1 Collocations** (`Banques_Transversales/Collocations_Générales.md`)
+- 🔗 **C1/C2 Connectors** (`Banques_Transversales/Connecteurs_Avancés.md`)
 
-### 🎯 **Démarrage Rapide**
-1. **Ouvre** ce pack dans **Obsidian** (un dossier = un *vault* ou un sous‑dossier de ton vault)
-2. **Commence** par `TCF_Thèmes_Index.md` puis navigue vers chaque thème
-3. **Explore** les banques transversales pour le vocabulaire général
-4. **Utilise** les outils de pratique pour t'entraîner
+### Practice Tools
+- 📝 Writing exercises
+- 🎤 Speaking drills
+- ✅ Evaluation grids
+- 📊 Progress tracking
+- 📅 Study planners
 
-### 📚 **Méthode de Révision**
-1. **Parcours** : thème → sous‑thème → vocabulaire spécialisé
-2. **Mémorise** : collocations, connecteurs, statistiques
-3. **Pratique** : exercices écrits et oraux
-4. **Évalue** : utilise les grilles d'auto-évaluation
-5. **Suis** : ton progrès avec le journal personnel
+## 🚀 Quick Start Guide
 
-### 🎯 **Structure Améliorée**
-- **Index principal** : Navigation claire avec emojis
-- **Index thématiques** : Format standardisé et cohérent
-- **Fiches spécialisées** : Contenu unique pour chaque sous-thème
-- **Liens transversaux** : Connexions entre tous les éléments
+1. **Open in Obsidian**
+   - Open as vault or sub-folder
+   - Enable wiki-links for best experience
 
-## 🎯 Conseils C1 Améliorés
+2. **Navigate Content**
+   - Start with `TCF_Thèmes_Index.md`
+   - Choose a theme → sub-topic
+   - Copy useful blocks: vocabulary, phrases, examples
 
-### 📝 **Production Écrite**
-- **Structure** : Utilise la méthode OREO/PEEL systématiquement
-- **Vocabulaire** : Intègre les collocations C1 spécialisées
-- **Connecteurs** : Varie les liens logiques avancés
-- **Exemples** : Donne des cas concrets avec données chiffrées
-- **Nuance** : Prise en compte des contre-arguments
+3. **Practice Daily (30-45 min)**
+   - Day A: Vocabulary + speaking script
+   - Day B: Short essay (120-150 words)
+   - Weekly: Self-evaluation
 
-### 🎤 **Production Orale**
-- **Fluidité** : Débit naturel avec transitions claires
-- **Prononciation** : Clarté et intonation appropriée
-- **Contenu** : Arguments solides avec exemples précis
-- **Interaction** : Réactivité aux questions et adaptation
-- **Gestion du temps** : Respect des 2 minutes imparties
+## 💎 Upgrade to Full Pack!
 
-### 🎯 **Révision Efficace**
-- **Planification** : Suis le planning de 6 semaines
-- **Régularité** : 30-45 minutes par jour
-- **Variété** : Alterne vocabulaire, exercices, et évaluation
-- **Auto-évaluation** : Utilise les grilles de progression
-- **Persévérance** : Célèbre les progrès et reste motivé
+> 🌟 **[Get the Complete TCF Success Pack]Coming Soon** 🌟
 
-## 📊 Statistiques du Pack
+The full version includes everything you need for C1 mastery:
 
-- **5 thèmes** principaux
-- **15 sous-thèmes** spécialisés
-- **200+ collocations** C1
-- **100+ connecteurs** avancés
-- **50+ statistiques** réelles
-- **20 exercices** de pratique
-- **Grilles d'évaluation** complètes
-- **Planning de révision** sur 6 semaines
+- **6x more content**:
+  - 30 detailed themes (vs 4 in mini)
+  - 60 model essays (B2-C1)
+  - 40 speaking scripts
+  - 200+ C1 collocations
+  - 100+ advanced connectors
 
-## 🎯 Objectifs d'Apprentissage
+- **Premium features**:
+  - PDF mini-guides
+  - Essay templates
+  - Advanced scoring grids
+  - Progress analytics
+  - Priority updates
 
-- **Niveau C1** : Maîtrise avancée du français
-- **Production écrite** : 16/20 minimum
-- **Production orale** : 16/20 minimum
-- **Vocabulaire** : 2000+ mots et expressions
-- **Fluidité** : Expression naturelle et spontanée
-- **Précision** : Usage correct des structures complexes
+- **Bonus materials**:
+  - "TCF Writing Secrets" guide
+  - "60-Second Speaking Formula"
+  - Weekly study plans
+  - Expert tips & tricks
+
+👉 **[Upgrade now for complete TCF preparation!](Coming Soon)**
+
+## 📂 Quick Reference
+
+```
+TCF_Thèmes_Index.md
+├── Environnement/
+│   ├── Environement-index.md
+│   ├── Pollution.md
+│   └── Biodiversité.md
+├── Réseaux sociaux/
+│   ├── Réseaux sociaux-index.md
+│   ├── Cyberharcèlement.md
+│   └── Vie privée.md
+├── Travail et économie/
+│   ├── Travail et économie-index.md
+│   ├── Télétravail.md
+│   └── Conditions de travail.md
+├── Éducation/
+│   ├── Education-index.md
+│   └── Éducation en ligne.md
+├── Banques_Transversales/
+│   ├── Collocations_Générales.md
+│   └── Connecteurs_Avancés.md
+└── Outils_Pratique/
+    ├── Exercices_Pratique.md
+    ├── Grilles_Évaluation.md
+    └── Suivi_Progrès.md
+```
 
 ---
 
-**Version** : 2.0 - Janvier 2024  
-**Niveau** : C1 (Avancé)  
-**Format** : Obsidian Vault  
-**Langue** : Français
+*Note: This mini pack contains a subset of the full TCF Success Pack. For comprehensive C1 preparation, consider upgrading to the complete version.*
