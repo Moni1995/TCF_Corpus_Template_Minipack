@@ -4,63 +4,106 @@ tags: ["tcf", "sous-thème", "réseaux sociaux", "cyberharcèlement"]
 created: 2024-01-01
 ---
 
-## Résumé en une phrase
+## Your thesis in one sentence
 ⟶ Cyberharcèlement dans le cadre de **Réseaux sociaux**: __[ta thèse en 12–16 mots]__.
 
-## 🎯 Lexique C1 Spécialisé - Cyberharcèlement
-- **Verbes** : **harceler**, **intimider**, **menacer**, **diffamer**, **humilier**, **persécuter**, **traquer**, **espionner**, **dénoncer**, **signaler**.
-- **Noms** : **cyberharcèlement**, **harcèlement**, **intimidation**, **menace**, **diffamation**, **humiliation**, **persécution**, **traque**, **espionnage**, **dénonciation**.
-- **Adjectifs** : **harcelant**, **intimidant**, **menaçant**, **diffamatoire**, **humiliant**, **persécuteur**, **traquant**, **espionnant**, **dénonciateur**, **victime**.
+## Key vocabulary for cyberbullying
 
-## 🔗 Collocations Spécialisées
-- **harceler** quelqu'un / **intimider** une victime
-- **menacer** de mort / **diffamer** publiquement
-- **humilier** en ligne / **persécuter** sur les réseaux
-- **traquer** numériquement / **espionner** les activités
-- **dénoncer** les agissements / **signaler** les contenus
-- **subir** du harcèlement / **être victime** de cyberharcèlement
+**Essential verbs:**
+- harceler (to harass)
+- intimider (to intimidate)
+- menacer (to threaten)
+- diffamer (to defame)
+- humilier (to humiliate)
+- dénoncer (to report)
 
-## 🔗 Connecteurs Spécialisés
-- **Cause** : **du fait de** l'anonymat / **en raison de** la facilité d'accès
-- **Conséquence** : **de ce fait**, les victimes souffrent en silence
-- **Opposition** : **toutefois**, les mesures restent insuffisantes
-- **Exemple** : **notamment** sur les réseaux sociaux / **entre autres** les forums
-- **Temporalité** : **depuis** l'essor du numérique / **au cours de** la pandémie
+**Important nouns:**
+- cyberharcèlement (cyberbullying)
+- intimidation (intimidation)
+- menace (threat)
+- diffamation (defamation)
+- humiliation (humiliation)
+- victime (victim)
 
-## 💬 Modèles de Phrases - Cyberharcèlement
-- *Le cyberharcèlement **constitue** un fléau **majeur** touchant **1 jeune sur 3***
-- *Il **convient de sensibiliser** les jeunes **afin de** prévenir ces agissements*
-- *Les victimes **subissent** des conséquences **graves** sur leur santé mentale*
-- *Les plateformes **doivent** renforcer la modération **pour** protéger les utilisateurs*
+## Real sample sentences
 
-## 🎯 Angles d'Approche - Cyberharcèlement
-- **Psychologique** : **dépression**, **anxiété**, **idées suicidaires**
-- **Social** : **isolement**, **perte de confiance**, **difficultés relationnelles**
-- **Éducatif** : **échec scolaire**, **absentéisme**, **décrochage**
-- **Légal** : **sanctions pénales**, **amendes**, **emprisonnement**
-- **Technologique** : **modération**, **signalement**, **blocage**
+**For writing:**
+- Le cyberharcèlement est un problème grave qui touche de nombreux jeunes.
+- Il faut sensibiliser les jeunes pour prévenir ces comportements.
+- Les victimes subissent des conséquences graves sur leur santé mentale.
+- Les plateformes doivent renforcer la modération pour protéger les utilisateurs.
 
-## 📊 Exemple Structuré - Cyberharcèlement en France
-- **Contexte** : France, 2023, collégiens et lycéens
-- **Données** : **1 jeune sur 3** victime, **70%** sont des filles
-- **Effet** : **+40%** pendant le confinement, **20%** d'absentéisme
-- **Leçon** : nécessité d'une éducation numérique et de mesures préventives
+**For speaking:**
+- "Le cyberharcèlement est très dangereux pour les jeunes."
+- "Beaucoup d'adolescents sont victimes sur les réseaux sociaux."
+- "Il faut parler aux adultes quand on est harcelé."
+- "Les réseaux sociaux doivent mieux protéger les utilisateurs."
 
-## ⚖️ Contre-argument & Réfutation
-- **Objection** : *Le cyberharcèlement est exagéré, c'est juste des "blagues" entre jeunes*
-- **Réponse** : *Certes, certains cas peuvent sembler anodins, toutefois 1 jeune sur 3 en souffre et cela peut conduire au suicide*
+## Answer template for writing (120-150 words)
 
-## 🎤 Mini-script PO (40–60s) - Cyberharcèlement
-- **Thèse** : *Le cyberharcèlement constitue un enjeu majeur nécessitant une action urgente*
-- **Argument 1 + ex.** : *Impact psychologique : dépression, anxiété, idées suicidaires*
-- **Argument 2 + ex.** : *Prévalence : 1 jeune sur 3 victime, +40% pendant le confinement*
-- **Ouverture** : *Il convient de renforcer l'éducation numérique et la modération*
+**Introduction (20-25 words):**
+Le cyberharcèlement représente un fléau moderne qui menace la sécurité et le bien-être des jeunes sur internet.
 
-## ⚑ Exemples Concrets - Cyberharcèlement
-- **France** : **Loi Schiappa** (2018), **amende** jusqu'à **€45,000**
-- **États-Unis** : **Tyler Clementi** (2010), suicide après diffusion de vidéo
-- **Corée du Sud** : **Sulli** (2019), suicide d'une star K-pop harcelée
-- **Japon** : **Hikikomori**, **1 million** de jeunes isolés
-- **Royaume-Uni** : **Malicious Communications Act**, **2 ans** de prison
+**Body paragraph 1 (40-50 words):**
+D'abord, le cyberharcèlement cause de graves dommages psychologiques. Les victimes souffrent d'anxiété, de dépression et d'isolement. Ces conséquences peuvent affecter leur scolarité et leurs relations sociales de manière durable.
 
-[[TCF_Corpus_Template_Minipack/Réseaux sociaux/Réseaux sociaux-index|← Retour index]]
+**Body paragraph 2 (40-50 words):**
+Ensuite, l'anonymat d'internet facilite ces comportements. Les harceleurs se sentent protégés et agissent sans crainte. Il faut donc renforcer l'éducation numérique et les mesures de prévention.
+
+**Conclusion (20-25 words):**
+Il est urgent de lutter contre le cyberharcèlement par l'éducation, la prévention et une meilleure modération des plateformes.
+
+## Speaking script (60 seconds)
+
+**Opening (10 seconds):**
+"Je vais parler du cyberharcèlement, qui est un problème très grave aujourd'hui."
+
+**Main points (40 seconds):**
+"D'abord, le cyberharcèlement fait beaucoup de mal aux jeunes. Ils peuvent devenir déprimés et isolés. Ensuite, c'est facile de harceler sur internet à cause de l'anonymat."
+
+**Closing (10 seconds):**
+"Donc, il faut mieux éduquer les jeunes et protéger les victimes."
+
+## More useful collocations and phrases
+
+**Actions and behaviors:**
+- harceler quelqu'un (to harass someone)
+- intimider une victime (to intimidate a victim)
+- menacer de mort (to threaten with death)
+- diffamer publiquement (to publicly defame)
+- humilier en ligne (to humiliate online)
+
+**Consequences:**
+- subir du harcèlement (to suffer harassment)
+- être victime de (to be a victim of)
+- souffrir de dépression (to suffer from depression)
+- perdre confiance (to lose confidence)
+- s'isoler socialement (to isolate socially)
+
+**Prevention and solutions:**
+- sensibiliser les jeunes (to raise awareness among young people)
+- renforcer la modération (to strengthen moderation)
+- signaler les contenus (to report content)
+- dénoncer les agissements (to report actions)
+- éduquer au numérique (to educate about digital)
+
+**Legal and social aspects:**
+- porter plainte (to file a complaint)
+- faire face aux conséquences (to face consequences)
+- protéger les victimes (to protect victims)
+- lutter contre (to fight against)
+- prévenir les risques (to prevent risks)
+
+## Counter-arguments and responses
+
+**Objection:** "Cyberbullying is exaggerated, it's just 'jokes' between young people."
+
+**Response:** "No, cyberbullying has serious consequences. Many young people suffer from depression and anxiety because of it, and some cases can lead to tragic outcomes."
+
+## Practice exercises
+
+1. **Writing**: Write a 120-word essay on "How to prevent cyberbullying"
+2. **Speaking**: Prepare a 60-second presentation on "The dangers of cyberbullying"
+3. **Vocabulary**: Use 5 cyberbullying-related words in a paragraph about internet safety
+
+[[TCF_Corpus_Template_Minipack/Réseaux sociaux/Réseaux sociaux-index|← Back to index]]
