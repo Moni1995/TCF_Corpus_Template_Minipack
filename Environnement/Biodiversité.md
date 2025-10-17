@@ -32,12 +32,22 @@ created: 2025-10-17
 - Il faut préserver cette richesse pour maintenir l'équilibre naturel.
 - Les espèces disparaissent à un rythme alarmant dans le monde entier.
 - Les écosystèmes sont menacés par les activités humaines.
+ - Protéger les habitats, c'est protéger les services dont nous dépendons.
+ - La restauration écologique crée des emplois tout en réparant les milieux.
+ - La sensibilisation locale rend la protection concrète et durable.
+ - Les politiques efficaces associent science, économie et participation citoyenne.
+ - Prévenir la dégradation coûte toujours moins cher que réparer.
 
 **For speaking:**
 - "La biodiversité est très importante pour notre planète."
 - "Beaucoup d'espèces animales et végétales disparaissent."
 - "Il faut protéger les forêts et les océans."
 - "Chaque espèce a un rôle important dans la nature."
+ - "Sans pollinisateurs, notre alimentation serait en danger."
+ - "On peut agir: planter local, réduire les pesticides, préserver l'eau."
+ - "Les aires protégées ne suffisent pas; il faut relier les habitats."
+ - "La nature nous rend des services gratuits, il faut les reconnaître."
+ - "Préserver le vivant, c'est aussi préserver notre avenir."
 
 ## Answer template for writing
 

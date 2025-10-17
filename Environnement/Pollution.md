@@ -32,12 +32,22 @@ created: 2025-10-17
 - Il faut réduire les rejets industriels pour protéger l'environnement.
 - La pollution de l'air affecte particulièrement les enfants et les personnes âgées.
 - Les mesures actuelles ne suffisent pas à résoudre le problème.
+- Les autorités devraient limiter la circulation dans les centres‑villes les jours de pic.
+- Les entreprises ont la responsabilité de traiter leurs rejets avant tout déversement.
+- La rénovation énergétique des bâtiments réduit durablement les émissions domestiques.
+- Les gestes quotidiens, comme trier et réduire le plastique, ont un effet cumulatif.
+- Une politique cohérente combine prévention, contrôle et accompagnement des acteurs.
 
 **For speaking:**
 - "La pollution est un problème grave qui touche tout le monde."
 - "Il y a plusieurs types de pollution : l'air, l'eau, et le sol."
 - "Les transports sont une source majeure de pollution en ville."
 - "Nous devons agir maintenant pour protéger notre planète."
+ - "Dans ma ville, on voit souvent un voile gris au-dessus des axes routiers."
+ - "Je trouve utile d'encourager le covoiturage et les transports en commun."
+ - "À la maison, on peut réduire les déchets et consommer différemment."
+ - "Les entreprises doivent être contrôlées et accompagnées, pas seulement sanctionnées."
+ - "Chacun peut agir, même avec de petits changements au quotidien."
 
 ## Answer template for writing
 

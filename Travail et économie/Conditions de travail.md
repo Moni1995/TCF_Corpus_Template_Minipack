@@ -32,12 +32,22 @@ created: 2025-10-17
 - Il faut améliorer l'environnement pour préserver la santé des employés.
 - La qualité de vie influence directement la productivité.
 - Les mesures actuelles s'avèrent insuffisantes pour garantir le bien-être.
+ - Un climat de confiance réduit le turnover et favorise l'initiative.
+ - La prévention des risques évite les arrêts et améliore l'image de l'entreprise.
+ - Le droit à la déconnexion protège l'équilibre vie‑travail.
+ - La participation des équipes produit des solutions réalistes.
+ - Mesurer régulièrement la satisfaction oriente les priorités.
 
 **For speaking:**
 - "Les conditions de travail sont très importantes pour les employés."
 - "Un bon environnement de travail améliore la productivité."
 - "Il faut respecter la santé et la sécurité des travailleurs."
 - "Les employés heureux travaillent mieux."
+ - "Des horaires clairs réduisent le stress et les conflits."
+ - "Former les managers change la qualité du quotidien."
+ - "Prévenir coûte moins cher que réparer."
+ - "Des espaces adaptés aident à mieux se concentrer."
+ - "Reconnaître le travail donne du sens et motive."
 
 ## Answer template for writing
 

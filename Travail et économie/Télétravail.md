@@ -32,12 +32,22 @@ created: 2025-10-17
 - Il faut développer cette pratique pour améliorer l'équilibre vie-travail.
 - La productivité peut augmenter grâce au télétravail.
 - L'isolement reste un défi pour les employés.
+ - Le cadre hybride permet d'allier concentration et collaboration.
+ - Des objectifs clairs et des rituels d'équipe évitent les malentendus.
+ - L'ergonomie du poste de travail influence directement la santé.
+ - La confiance managériale est la condition d'une vraie autonomie.
+ - La formation aux outils réduit la fatigue numérique et les frictions.
 
 **For speaking:**
 - "Le télétravail est devenu très populaire depuis la pandémie."
 - "Travailler à la maison offre plus de flexibilité."
 - "Mais parfois, on se sent isolé sans collègues."
 - "Il faut trouver un bon équilibre entre travail et vie privée."
+ - "Un rythme clair aide à séparer le travail et la maison."
+ - "On peut garder le lien avec des points courts et réguliers."
+ - "Un bon équipement change vraiment la qualité de la journée."
+ - "La confiance est essentielle: on juge le résultat, pas la présence."
+ - "Tout le monde ne télétravaille pas de la même façon: restons souples."
 
 ## Answer template for writing
 

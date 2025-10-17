@@ -32,12 +32,22 @@ created: 2025-10-17
 - Il faut protéger les données pour préserver l'intimité des utilisateurs.
 - Le RGPD garantit des droits fondamentaux aux utilisateurs.
 - Les plateformes doivent respecter la confidentialité pour maintenir la confiance.
+ - Le paramétrage par défaut devrait protéger, pas exposer.
+ - Informer clairement l'utilisateur renforce la confiance et le choix.
+ - La minimisation des données est une bonne pratique simple et efficace.
+ - Les fuites fragilisent durablement la relation avec les usagers.
+ - La sécurité dépend aussi des habitudes: mots de passe et vigilance.
 
 **For speaking:**
 - "La protection des données personnelles est très importante."
 - "Les réseaux sociaux collectent beaucoup d'informations sur nous."
 - "Il faut faire attention à ce qu'on partage en ligne."
 - "Chacun a le droit à la vie privée sur internet."
+ - "Je vérifie mes paramètres et je limite les autorisations."
+ - "J'utilise l'authentification à deux facteurs quand c'est possible."
+ - "Je réfléchis avant de publier des informations sensibles."
+ - "Je signale les messages suspects et je ne clique pas partout."
+ - "La transparence des plateformes est essentielle pour la confiance."
 
 ## Answer template for writing
 

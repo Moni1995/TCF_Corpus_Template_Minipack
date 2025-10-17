@@ -32,12 +32,22 @@ created: 2025-10-17
 - Il faut sensibiliser les jeunes pour prévenir ces comportements.
 - Les victimes subissent des conséquences graves sur leur santé mentale.
 - Les plateformes doivent renforcer la modération pour protéger les utilisateurs.
+ - Les parents et l'école doivent agir ensemble, pas séparément.
+ - L'accompagnement des victimes aide à rompre l'isolement.
+ - La clarté des règles réduit les zones grises en ligne.
+ - La prévention fonctionne lorsqu'elle est concrète et répétée.
+ - Les témoins jouent un rôle clé: signaler, soutenir, ne pas relayer.
 
 **For speaking:**
 - "Le cyberharcèlement est très dangereux pour les jeunes."
 - "Beaucoup d'adolescents sont victimes sur les réseaux sociaux."
 - "Il faut parler aux adultes quand on est harcelé."
 - "Les réseaux sociaux doivent mieux protéger les utilisateurs."
+ - "On peut bloquer, signaler, et garder des preuves."
+ - "Un adulte de confiance peut vraiment aider."
+ - "Il faut apprendre à respecter les autres en ligne."
+ - "La modération doit être plus rapide et plus claire."
+ - "Être témoin, c'est agir: soutenir la victime et ne pas partager."
 
 ## Answer template for writing
 
