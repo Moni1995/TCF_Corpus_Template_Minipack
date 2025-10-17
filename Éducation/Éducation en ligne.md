@@ -1,7 +1,7 @@
 ---
 title: "Éducation en ligne"
 tags: ["tcf", "sous-thème", "éducation", "éducation-en-ligne"]
-created: 2024-01-01
+created: 2025-10-17
 ---
 
 ## Your thesis in one sentence
@@ -39,29 +39,29 @@ created: 2024-01-01
 - "Mais parfois, on se sent isolé sans les autres étudiants."
 - "Il faut être motivé pour réussir en ligne."
 
-## Answer template for writing (120-150 words)
+## Answer template for writing
 
-**Introduction (20-25 words):**
+**Introduction:**
 L'éducation en ligne représente une révolution dans l'apprentissage qui offre de nouvelles possibilités et défis.
 
-**Body paragraph 1 (40-50 words):**
+**Body paragraph 1:**
 D'abord, l'éducation en ligne améliore l'accessibilité. Les étudiants peuvent apprendre depuis n'importe où et à leur rythme. Cette flexibilité permet à plus de personnes d'accéder à la formation, même dans les régions isolées.
 
-**Body paragraph 2 (40-50 words):**
+**Body paragraph 2:**
 Cependant, l'interaction reste limitée. Le manque de contact direct avec les enseignants et les autres étudiants peut affecter la motivation. Il faut donc développer des outils de communication plus efficaces.
 
-**Conclusion (20-25 words):**
+**Conclusion:**
 L'éducation en ligne est bénéfique mais nécessite des améliorations pour maintenir la qualité de l'apprentissage et l'engagement des étudiants.
 
-## Speaking script (60 seconds)
+## Speaking script
 
-**Opening (10 seconds):**
+**Opening:**
 "Je vais parler de l'éducation en ligne, qui est devenue très importante."
 
-**Main points (40 seconds):**
+**Main points:**
 "D'abord, l'éducation en ligne est très pratique. On peut apprendre depuis chez soi. Mais ensuite, il y a des défis. Par exemple, on peut se sentir isolé sans les autres étudiants."
 
-**Closing (10 seconds):**
+**Closing:**
 "Donc, l'éducation en ligne est utile mais il faut bien l'organiser."
 
 ## More useful collocations and phrases

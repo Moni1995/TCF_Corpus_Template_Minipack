@@ -1,7 +1,7 @@
 ---
 title: "Pollution"
 tags: ["tcf", "sous-thème", "environnement", "pollution"]
-created: 2024-01-01
+created: 2025-10-17
 ---
 
 ## Your thesis in one sentence
@@ -39,29 +39,29 @@ created: 2024-01-01
 - "Les transports sont une source majeure de pollution en ville."
 - "Nous devons agir maintenant pour protéger notre planète."
 
-## Answer template for writing (120-150 words)
+## Answer template for writing
 
-**Introduction (20-25 words):**
+**Introduction:**
 La pollution constitue un défi majeur de notre époque qui menace l'environnement et la santé publique.
 
-**Body paragraph 1 (40-50 words):**
+**Body paragraph 1:**
 D'abord, la pollution de l'air cause de graves problèmes de santé. Les particules fines pénètrent dans les poumons et provoquent des maladies respiratoires, surtout chez les enfants et les personnes âgées.
 
-**Body paragraph 2 (40-50 words):**
+**Body paragraph 2:**
 Ensuite, la pollution a un coût économique énorme. Les soins de santé liés à la pollution coûtent très cher chaque année. Ce coût pourrait être réduit grâce à des mesures préventives.
 
-**Conclusion (20-25 words):**
+**Conclusion:**
 Il est donc urgent de prendre des mesures pour réduire la pollution et protéger notre environnement pour les générations futures.
 
-## Speaking script (60 seconds)
+## Speaking script
 
-**Opening (10 seconds):**
+**Opening:**
 "Je vais parler de la pollution, qui est un problème très important aujourd'hui."
 
-**Main points (40 seconds):**
+**Main points:**
 "D'abord, la pollution de l'air est dangereuse pour la santé. Par exemple, à Paris, il y a souvent des alertes pollution. Ensuite, la pollution coûte très cher en soins de santé chaque année."
 
-**Closing (10 seconds):**
+**Closing:**
 "Donc, il faut agir maintenant pour réduire la pollution et protéger notre planète."
 
 ## More useful collocations and phrases

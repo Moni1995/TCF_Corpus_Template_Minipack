@@ -1,7 +1,7 @@
 ---
 title: "Télétravail"
 tags: ["tcf", "sous-thème", "travail-et-économie", "télétravail"]
-created: 2024-01-01
+created: 2025-10-17
 ---
 
 ## Your thesis in one sentence
@@ -39,29 +39,29 @@ created: 2024-01-01
 - "Mais parfois, on se sent isolé sans collègues."
 - "Il faut trouver un bon équilibre entre travail et vie privée."
 
-## Answer template for writing (120-150 words)
+## Answer template for writing
 
-**Introduction (20-25 words):**
+**Introduction:**
 Le télétravail représente une évolution majeure du monde du travail qui offre de nouveaux avantages et défis.
 
-**Body paragraph 1 (40-50 words):**
+**Body paragraph 1:**
 D'abord, le télétravail améliore l'équilibre entre vie professionnelle et personnelle. Les employés peuvent mieux gérer leur temps et réduire le stress des transports. Cette flexibilité permet une meilleure conciliation des responsabilités familiales.
 
-**Body paragraph 2 (40-50 words):**
+**Body paragraph 2:**
 Cependant, l'isolement peut poser problème. Le manque de contact avec les collègues peut affecter la motivation et la collaboration. Il faut donc maintenir une communication régulière et organiser des réunions en ligne.
 
-**Conclusion (20-25 words):**
+**Conclusion:**
 Le télétravail est bénéfique mais nécessite une organisation adaptée pour préserver la cohésion d'équipe et l'efficacité.
 
-## Speaking script (60 seconds)
+## Speaking script
 
-**Opening (10 seconds):**
+**Opening:**
 "Je vais parler du télétravail, qui est devenu très important aujourd'hui."
 
-**Main points (40 seconds):**
+**Main points:**
 "D'abord, le télétravail offre plus de flexibilité. On peut mieux gérer son temps. Mais ensuite, il y a des défis. Par exemple, on peut se sentir isolé sans les collègues."
 
-**Closing (10 seconds):**
+**Closing:**
 "Donc, le télétravail est utile mais il faut bien l'organiser."
 
 ## More useful collocations and phrases

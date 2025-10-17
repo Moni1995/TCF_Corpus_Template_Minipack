@@ -1,7 +1,7 @@
 ---
 title: "Cyberharcèlement"
 tags: ["tcf", "sous-thème", "réseaux sociaux", "cyberharcèlement"]
-created: 2024-01-01
+created: 2025-10-17
 ---
 
 ## Your thesis in one sentence
@@ -39,29 +39,29 @@ created: 2024-01-01
 - "Il faut parler aux adultes quand on est harcelé."
 - "Les réseaux sociaux doivent mieux protéger les utilisateurs."
 
-## Answer template for writing (120-150 words)
+## Answer template for writing
 
-**Introduction (20-25 words):**
+**Introduction:**
 Le cyberharcèlement représente un fléau moderne qui menace la sécurité et le bien-être des jeunes sur internet.
 
-**Body paragraph 1 (40-50 words):**
+**Body paragraph 1:**
 D'abord, le cyberharcèlement cause de graves dommages psychologiques. Les victimes souffrent d'anxiété, de dépression et d'isolement. Ces conséquences peuvent affecter leur scolarité et leurs relations sociales de manière durable.
 
-**Body paragraph 2 (40-50 words):**
+**Body paragraph 2:**
 Ensuite, l'anonymat d'internet facilite ces comportements. Les harceleurs se sentent protégés et agissent sans crainte. Il faut donc renforcer l'éducation numérique et les mesures de prévention.
 
-**Conclusion (20-25 words):**
+**Conclusion:**
 Il est urgent de lutter contre le cyberharcèlement par l'éducation, la prévention et une meilleure modération des plateformes.
 
-## Speaking script (60 seconds)
+## Speaking script
 
-**Opening (10 seconds):**
+**Opening:**
 "Je vais parler du cyberharcèlement, qui est un problème très grave aujourd'hui."
 
-**Main points (40 seconds):**
+**Main points:**
 "D'abord, le cyberharcèlement fait beaucoup de mal aux jeunes. Ils peuvent devenir déprimés et isolés. Ensuite, c'est facile de harceler sur internet à cause de l'anonymat."
 
-**Closing (10 seconds):**
+**Closing:**
 "Donc, il faut mieux éduquer les jeunes et protéger les victimes."
 
 ## More useful collocations and phrases

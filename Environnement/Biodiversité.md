@@ -1,92 +1,110 @@
 ---
 title: "Biodiversité"
 tags: ["tcf", "sous-thème", "environnement", "biodiversité"]
-created: 2024-01-01
+created: 2025-10-17
 ---
 
-## Résumé en une phrase
+## Your thesis in one sentence
 ⟶ Biodiversité dans le cadre de **Environnement**: __[ta thèse en 12–16 mots]__.
 
-## 🎯 Lexique C1 Spécialisé - Biodiversité
-- **Verbes** : **préserver**, **protéger**, **conserver**, **restaurer**, **régénérer**, **réhabiliter**, **sauvegarder**, **maintenir**, **développer**, **enrichir**.
-- **Noms** : **biodiversité**, **écosystème**, **espèce**, **habitat", **faune", **flore", **conservation", **protection", **extinction", **menace**.
-- **Adjectifs** : **diversifié", **riche", **fragile", **menacé", **endémique", **rare", **vulnérable", **résilient", **équilibré", **dégradé**.
+## Key vocabulary for biodiversity
 
-## 🔗 Collocations Spécialisées
-- **préserver** la biodiversité / **protéger** les espèces
-- **conserver** les écosystèmes / **restaurer** les habitats
-- **régénérer** la nature / **réhabiliter** les milieux
-- **sauvegarder** la faune / **maintenir** l'équilibre
-- **développer** la richesse / **enrichir** la diversité
-- **lutter contre** l'extinction / **combattre** les menaces
+**Essential verbs:**
+- préserver (to preserve)
+- protéger (to protect)
+- conserver (to conserve)
+- restaurer (to restore)
+- régénérer (to regenerate)
+- sauvegarder (to safeguard)
 
-## 🔗 Connecteurs Spécialisés
-- **Cause** : **du fait de** la destruction / **en raison de** la pollution
-- **Conséquence** : **de ce fait**, les espèces disparaissent
-- **Opposition** : **toutefois**, des solutions existent
-- **Exemple** : **notamment** les forêts tropicales / **entre autres** les récifs coralliens
-- **Temporalité** : **depuis** l'industrialisation / **au cours de** l'évolution
+**Important nouns:**
+- biodiversité (biodiversity)
+- écosystème (ecosystem)
+- espèce (species)
+- habitat (habitat)
+- faune (fauna)
+- flore (flora)
 
-## 💬 Modèles de Phrases - Biodiversité
-- *La biodiversité **constitue** un patrimoine **inestimable** pour l'humanité*
-- *Il **convient de préserver** cette richesse **afin de** maintenir l'équilibre*
-- *Les espèces **disparaissent** à un rythme **100 fois supérieur** à la normale*
-- *Les écosystèmes **sont** menacés **par** les activités humaines*
-- *La biodiversité **agit comme** une **barrière naturelle** contre les zoonoses*
-- *La destruction des habitats **favorise** la **transmission** des maladies*
+## Real sample sentences
 
-## 🎯 Angles d'Approche - Biodiversité
-- **Écologique** : **équilibre** des écosystèmes, **services** écosystémiques
-- **Économique** : **€44,000 milliards** de valeur, **tourism** nature
-- **Scientifique** : **recherche** médicale, **innovation** biotechnologique
-- **Sanitaire** : **prévention** des zoonoses, **barrière** naturelle contre maladies
-- **Culturel** : **patrimoine** naturel, **identité** territoriale
-- **Climatique** : **régulation** du climat, **capture** du CO2
+**For writing:**
+- La biodiversité constitue un patrimoine inestimable pour l'humanité.
+- Il faut préserver cette richesse pour maintenir l'équilibre naturel.
+- Les espèces disparaissent à un rythme alarmant dans le monde entier.
+- Les écosystèmes sont menacés par les activités humaines.
 
-## 📊 Exemple Structuré - Extinction des Espèces
-- **Contexte** : Monde, 2023, sixième extinction de masse
-- **Données** : **1 million** d'espèces menacées, **100 fois** le taux normal
-- **Effet** : **déséquilibre** des écosystèmes, **perte** de services
-- **Leçon** : urgence absolue de la protection de la biodiversité
+**For speaking:**
+- "La biodiversité est très importante pour notre planète."
+- "Beaucoup d'espèces animales et végétales disparaissent."
+- "Il faut protéger les forêts et les océans."
+- "Chaque espèce a un rôle important dans la nature."
 
-## 📊 Exemple Structuré - Biodiversité & Zoonoses
-- **Contexte** : Monde, 2020-2023, pandémie COVID-19
-- **Données** : **75%** des maladies émergentes sont zoonotiques
-- **Effet** : **destruction** des habitats = **augmentation** des contacts = **pandémies**
-- **Leçon** : la biodiversité intacte réduit le risque de transmission
+## Answer template for writing
 
-## ⚖️ Contre-argument & Réfutation
-- **Objection** : *La protection de la biodiversité freine le développement économique*
-- **Réponse** : *Certes, elle impose des contraintes, toutefois elle génère €44,000 milliards de valeur économique et prévient les pandémies zoonotiques coûteuses*
+**Introduction:**
+La biodiversité représente un patrimoine naturel inestimable qui garantit l'équilibre de notre planète.
 
-## ⚖️ Contre-argument & Réfutation - Zoonoses
-- **Objection** : *Les zoonoses sont inévitables et la biodiversité n'y change rien*
-- **Réponse** : *Certes, les zoonoses existent naturellement, toutefois la biodiversité intacte réduit de 75% le risque de transmission en maintenant l'équilibre entre espèces*
+**Body paragraph 1:**
+D'abord, la biodiversité fournit des services essentiels à l'humanité. Les écosystèmes produisent de l'oxygène, purifient l'eau et régulent le climat. Cette diversité naturelle est indispensable à notre survie.
 
-## 🎤 Mini-script PO (40–60s) - Biodiversité
-- **Thèse** : *La biodiversité constitue un enjeu majeur nécessitant une protection urgente*
-- **Argument 1 + ex.** : *Valeur économique : €44,000 milliards de services écosystémiques*
-- **Argument 2 + ex.** : *Urgence écologique : 1 million d'espèces menacées d'extinction*
-- **Ouverture** : *Il convient de développer des solutions innovantes pour la préserver*
+**Body paragraph 2:**
+Cependant, les activités humaines menacent gravement cette richesse. La déforestation, la pollution et le changement climatique causent l'extinction de nombreuses espèces. Il faut donc agir rapidement.
 
-## 🎤 Mini-script PO (40–60s) - Biodiversité & Santé
-- **Thèse** : *La biodiversité protège l'humanité contre les maladies zoonotiques*
-- **Argument 1 + ex.** : *Barrière naturelle : écosystèmes équilibrés limitent la transmission*
-- **Argument 2 + ex.** : *Prévention : 75% des maladies émergentes sont zoonotiques (COVID, Ebola)*
-- **Ouverture** : *Il convient de préserver les habitats pour éviter les futures pandémies*
+**Conclusion:**
+Il est urgent de protéger la biodiversité par des mesures de conservation et de restauration des écosystèmes.
 
-## ⚑ Exemples Concrets - Biodiversité
-- **Amazonie** : **20%** de l'oxygène mondial, **40,000** espèces de plantes
-- **Grande Barrière** : **1,500** espèces de poissons, **400** types de coraux
-- **Madagascar** : **80%** d'espèces endémiques, **lémuriens** uniques
-- **Costa Rica** : **6%** de la biodiversité mondiale, **25%** du territoire protégé
-- **France** : **10%** d'espèces menacées, **parcs** nationaux
+## Speaking script
 
-## ⚑ Exemples Concrets - Biodiversité & Zoonoses
-- **COVID-19** : **déforestation** → **contact** humain-animal → **pandémie mondiale**
-- **Ebola** : **destruction** des forêts tropicales → **transmission** par chauves-souris
-- **Lyme** : **fragmentation** des habitats → **prolifération** des tiques
-- **Nipah** : **déforestation** en Malaisie → **contact** avec chauves-souris frugivores
-- **SARS** : **marchés** d'animaux sauvages → **transmission** inter-espèces
+**Opening:**
+"Je vais parler de la biodiversité, qui est très importante pour notre planète."
 
-[[TCF_Corpus_Template_Minipack/Environnement/Environement-index|← Retour index]]
+**Main points:**
+"D'abord, la biodiversité nous donne beaucoup de choses importantes. Par exemple, les forêts produisent l'oxygène qu'on respire. Mais ensuite, beaucoup d'espèces disparaissent à cause des activités humaines."
+
+**Closing:**
+"Donc, il faut protéger la nature et les animaux pour l'avenir."
+
+## More useful collocations and phrases
+
+**Conservation actions:**
+- préserver la biodiversité (to preserve biodiversity)
+- protéger les espèces (to protect species)
+- conserver les écosystèmes (to conserve ecosystems)
+- restaurer les habitats (to restore habitats)
+- sauvegarder la faune (to safeguard fauna)
+- maintenir l'équilibre (to maintain balance)
+
+**Threats and challenges:**
+- faire face à l'extinction (to face extinction)
+- lutter contre la destruction (to fight destruction)
+- combattre les menaces (to combat threats)
+- freiner la dégradation (to slow degradation)
+- éviter la disparition (to avoid disappearance)
+
+**Benefits and importance:**
+- fournir des services (to provide services)
+- garantir l'équilibre (to guarantee balance)
+- assurer la survie (to ensure survival)
+- maintenir la stabilité (to maintain stability)
+- préserver l'héritage (to preserve heritage)
+
+**Solutions:**
+- créer des réserves (to create reserves)
+- établir des parcs (to establish parks)
+- développer la protection (to develop protection)
+- promouvoir la conservation (to promote conservation)
+- sensibiliser le public (to raise public awareness)
+
+## Counter-arguments and responses
+
+**Objection:** "Protecting biodiversity slows down economic development."
+
+**Response:** "Yes, it imposes constraints, but biodiversity provides enormous economic value through ecosystem services and prevents costly environmental disasters."
+
+## Practice exercises
+
+1. **Writing**: Write a 120-word essay on "Why is biodiversity important?"
+2. **Speaking**: Prepare a 60-second presentation on "How to protect biodiversity"
+3. **Vocabulary**: Use 5 biodiversity-related words in a paragraph about nature conservation
+
+[[TCF_Corpus_Template_Minipack/Environnement/Environement-index|← Back to index]]

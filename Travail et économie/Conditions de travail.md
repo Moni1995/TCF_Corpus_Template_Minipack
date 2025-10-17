@@ -1,66 +1,112 @@
 ---
 title: "Conditions de travail"
 tags: ["tcf", "sous-thème", "travail-et-économie", "conditions-travail"]
-created: 2024-01-01
+created: 2025-10-17
 ---
 
-## Résumé en une phrase
+## Your thesis in one sentence
 ⟶ Conditions de travail dans le cadre de **Travail et économie**: __[ta thèse en 12–16 mots]__.
 
-## 🎯 Lexique C1 Spécialisé - Conditions de Travail
-- **Verbes** : **améliorer**, **dégradar", **détériorer", **optimiser", **moderniser", **humaniser", **sécuriser", **protéger", **respecter", **garantir**.
-- **Noms** : **conditions", **environnement", **cadre", **climat", **atmosphère", **sécurité", **santé", **bien-être", **épanouissement", **satisfaction**.
-- **Adjectifs** : **favorable", **défavorable", **sécurisé", **dangereux", **sain", **malsain", **stimulant", **démotivant", **épanouissant", **stressant**.
+## Key vocabulary for working conditions
 
-## 🔗 Collocations Spécialisées
-- **améliorer** les conditions / **dégradar** l'environnement
-- **optimiser** le cadre / **moderniser** les équipements
-- **humaniser** le travail / **sécuriser** les postes
-- **protéger** la santé / **respecter** la dignité
-- **garantir** le bien-être / **assurer** l'épanouissement
-- **maintenir** la motivation / **préserver** l'équilibre
+**Essential verbs:**
+- améliorer (to improve)
+- dégrader (to degrade)
+- optimiser (to optimize)
+- moderniser (to modernize)
+- humaniser (to humanize)
+- sécuriser (to secure)
 
-## 🔗 Connecteurs Spécialisés
-- **Cause** : **du fait de** l'évolution / **en raison de** la pression
-- **Conséquence** : **de ce fait**, la qualité se dégrade
-- **Opposition** : **toutefois**, des améliorations sont possibles
-- **Exemple** : **notamment** dans les services / **entre autres** l'industrie
-- **Temporalité** : **depuis** les années 2000 / **au cours de** l'évolution
+**Important nouns:**
+- conditions (conditions)
+- environnement (environment)
+- cadre (framework)
+- sécurité (safety)
+- bien-être (well-being)
+- épanouissement (fulfillment)
 
-## 💬 Modèles de Phrases - Conditions de Travail
-- *Les conditions de travail **constituent** un enjeu **majeur** pour la performance*
-- *Il **convient d'améliorer** l'environnement **afin de** préserver la santé*
-- *La qualité de vie **influence** directement la productivité des employés*
-- *Les mesures **mises en place** **s'avèrent** insuffisantes **pour** garantir le bien-être*
+## Real sample sentences
 
-## 🎯 Angles d'Approche - Conditions de Travail
-- **Santé** : **stress** professionnel, **burn-out**, **maladies** professionnelles
-- **Sécurité** : **accidents** du travail, **prévention** des risques
-- **Épanouissement** : **motivation**, **satisfaction**, **reconnaissance**
-- **Équilibre** : **conciliation** vie-travail, **temps** de repos
-- **Économique** : **coût** des arrêts, **retour** sur investissement
+**For writing:**
+- Les conditions de travail constituent un enjeu majeur pour la performance.
+- Il faut améliorer l'environnement pour préserver la santé des employés.
+- La qualité de vie influence directement la productivité.
+- Les mesures actuelles s'avèrent insuffisantes pour garantir le bien-être.
 
-## 📊 Exemple Structuré - Stress au Travail
-- **Contexte** : France, 2023, stress professionnel
-- **Données** : **60%** des salariés stressés, **€2-3 milliards** de coût
-- **Effet** : **+40%** d'arrêts maladie, **-15%** de productivité
-- **Leçon** : investissement dans le bien-être = performance
+**For speaking:**
+- "Les conditions de travail sont très importantes pour les employés."
+- "Un bon environnement de travail améliore la productivité."
+- "Il faut respecter la santé et la sécurité des travailleurs."
+- "Les employés heureux travaillent mieux."
 
-## ⚖️ Contre-argument & Réfutation
-- **Objection** : *Améliorer les conditions de travail coûte trop cher et réduit la compétitivité*
-- **Réponse** : *Certes, cela nécessite un investissement, toutefois cela génère un retour sur investissement de 3€ pour 1€ investi*
+## Answer template for writing
 
-## 🎤 Mini-script PO (40–60s) - Conditions de Travail
-- **Thèse** : *Les conditions de travail constituent un enjeu majeur pour la performance et le bien-être*
-- **Argument 1 + ex.** : *Impact santé : 60% des salariés stressés, €2-3 milliards de coût*
-- **Argument 2 + ex.** : *Performance : +15% de productivité avec de bonnes conditions*
-- **Ouverture** : *Il convient d'investir dans l'amélioration de l'environnement de travail*
+**Introduction:**
+Les conditions de travail représentent un enjeu fondamental qui influence la performance et le bien-être des employés.
 
-## ⚑ Exemples Concrets - Conditions de Travail
-- **Danemark** : **meilleures** conditions d'Europe, **plus haute** productivité
-- **Suède** : **6h** de travail/jour, **excellence** économique
-- **France** : **35h/semaine**, **RTT**, **congés** payés
-- **Japon** : **karoshi** (mort par surmenage), **réforme** en cours
-- **Allemagne** : **codétermination**, **dialogue** social
+**Body paragraph 1:**
+D'abord, de bonnes conditions de travail améliorent la productivité. Les employés motivés et en bonne santé sont plus efficaces. Un environnement sécurisé et agréable favorise la concentration et la créativité.
 
-[[TCF_Corpus_Template_Minipack/Travail et économie/Travail et économie-index|← Retour index]]
+**Body paragraph 2:**
+Cependant, de mauvaises conditions peuvent causer du stress et des problèmes de santé. Le surmenage et l'insécurité affectent la qualité de vie et augmentent l'absentéisme. Il faut donc investir dans l'amélioration.
+
+**Conclusion:**
+Il est essentiel d'améliorer les conditions de travail pour garantir la performance, la santé et l'épanouissement des employés.
+
+## Speaking script
+
+**Opening:**
+"Je vais parler des conditions de travail, qui sont très importantes aujourd'hui."
+
+**Main points:**
+"D'abord, de bonnes conditions de travail améliorent la productivité. Les employés sont plus motivés. Mais ensuite, de mauvaises conditions peuvent causer du stress et des problèmes de santé."
+
+**Closing:**
+"Donc, il faut améliorer l'environnement de travail pour tout le monde."
+
+## More useful collocations and phrases
+
+**Improvement actions:**
+- améliorer les conditions (to improve conditions)
+- optimiser l'environnement (to optimize environment)
+- moderniser les équipements (to modernize equipment)
+- humaniser le travail (to humanize work)
+- sécuriser les postes (to secure positions)
+- garantir le bien-être (to guarantee well-being)
+
+**Health and safety:**
+- protéger la santé (to protect health)
+- assurer la sécurité (to ensure safety)
+- prévenir les risques (to prevent risks)
+- réduire le stress (to reduce stress)
+- éviter les accidents (to avoid accidents)
+- maintenir l'équilibre (to maintain balance)
+
+**Performance and motivation:**
+- stimuler la motivation (to stimulate motivation)
+- favoriser l'épanouissement (to promote fulfillment)
+- améliorer la productivité (to improve productivity)
+- renforcer l'engagement (to strengthen engagement)
+- développer la créativité (to develop creativity)
+- maintenir la satisfaction (to maintain satisfaction)
+
+**Challenges:**
+- faire face au stress (to face stress)
+- gérer la pression (to manage pressure)
+- lutter contre le burn-out (to fight burnout)
+- prévenir l'absentéisme (to prevent absenteeism)
+- réduire la fatigue (to reduce fatigue)
+
+## Counter-arguments and responses
+
+**Objection:** "Improving working conditions costs too much and reduces competitiveness."
+
+**Response:** "Yes, it requires investment, but it generates a positive return through increased productivity, reduced absenteeism, and better employee retention."
+
+## Practice exercises
+
+1. **Writing**: Write a 120-word essay on "How to improve working conditions"
+2. **Speaking**: Prepare a 60-second presentation on "The importance of good working conditions"
+3. **Vocabulary**: Use 5 working conditions-related words in a paragraph about workplace improvement
+
+[[TCF_Corpus_Template_Minipack/Travail et économie/Travail et économie-index|← Back to index]]
